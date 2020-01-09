@@ -1,0 +1,5 @@
+https://github.com/supermedium/superframe/tree/master/components/animation
+
+https://github.com/aframevr/sample-assets
+
+https://github.com/jeromeetienne/AR.js/blob/master/README.md

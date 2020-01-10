@@ -1,0 +1,1 @@
+To run project, just open ARidenx.html in web brower (chrome)
